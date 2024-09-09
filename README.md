@@ -18,7 +18,9 @@ Expantion Plan: The Primary dataset used for this analysisis the "Mavens_Toy_Dat
 
 - Power Bi (Creating report and visulaization).
 
-### Exploratory Data Analysis 
+### Exploratory Data Analysis
+
+EDA involved exploring the Expansion Plan data to answer key question, such as:
 
 - Which location has the highest Revenue?
 - Which Store city has the highest Revenue?
