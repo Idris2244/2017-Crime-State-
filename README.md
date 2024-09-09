@@ -41,7 +41,19 @@ Toy category is the best selling product category with over $5M generated revenu
 
 August recorded the least revenue generated. Discount and promo can be offered during this month. Total revenue increase in March comparing tonthe previous years by $294,030.
 
+#### Revenue Overview (June 2017 - October 2018)
 
+The total revenue generated from June 2017 to October 2018 amounts to $14.44 million. Among the top 10 revenue-generating products, Lego Bricks lead with the highest revenue of $2,388,882. This is followed by Color-Buds, which contributed $1,564,476. Conversely, the Dart Gun recorded the lowest revenue of $505,092 within the top 10 products.
+
+#### Profit Analysis (June 2017 - October 2018)
+
+The total profit from June 2017 to October 2018 stands at $4.01 million. Within the top 10 products by profit, Color-Buds achieved the highest profit, totaling $834,944. This is followed by Active Figures, which generated a profit of $347,748. In contrast, Splash Balls recorded the lowest profit among the top 10 products, with $60,248.
+
+---
+
+### Conclusion
+
+The analysis of store location expansion plans provides valuable insights into optimizing retail operations and making informed strategic decisions. By leveraging data on inventory, products, sales, and store locations, we can identify high-potential areas for expansion and enhance overall store performance.
 
 
 
